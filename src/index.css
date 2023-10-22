@@ -1,0 +1,9 @@
+:root{
+  --dark-grey: #4D4D4D;  
+  --light-grey: #666666;
+  --red-button: #AC3939;
+  --blue-button: #004466;
+  --yellow: #FFA500;
+}
+
+body {  margin: 0;}

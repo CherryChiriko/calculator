@@ -1,0 +1,87 @@
+[
+    {
+        "id": "clear",
+        "value": "AC",
+        "span": [1,2]
+    },
+    {
+        "id": "divide",
+        "value": "/",
+        "span": [1,1]
+    },
+    {
+        "id": "multiply",
+        "value": "x",
+        "span": [1,1]
+    },
+    {
+        "id": "seven",
+        "value":7,
+        "span": [1,1]
+    },
+    {
+        "id": "eight",
+        "value":8,
+        "span": [1,1]
+    },
+    {
+        "id": "nine",
+        "value": 9,
+        "span": [1,1]
+    },
+    {
+        "id": "subtract",
+        "value": "-",
+        "span": [1,1]
+    },
+    {
+        "id": "four",
+        "value":4,
+        "span": [1,1]
+    },
+    {
+        "id": "five",
+        "value":5,
+        "span": [1,1]
+    },
+    {
+        "id": "six",
+        "value": 6,
+        "span": [1,1]
+    },
+    {
+        "id": "add",
+        "value": "+",
+        "span": [1,1]
+    },
+    {
+        "id": "one",
+        "value":1,
+        "span": [1,1]
+    },
+    {
+        "id": "two",
+        "value":2,
+        "span": [1,1]
+    },
+    {
+        "id": "three",
+        "value":3,
+        "span": [1,1]
+    },
+    {
+        "id": "equals",
+        "value": "=",
+        "span": [2,1]
+    },
+    {
+        "id" : "zero", 
+        "value": 0,
+        "span": [1,2]
+    },
+    {
+        "id" : "decimal", 
+        "value": ".",
+        "span": [1,1]
+    }
+]
